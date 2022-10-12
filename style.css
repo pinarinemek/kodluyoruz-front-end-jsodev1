@@ -1,0 +1,21 @@
+.ortala {
+    display: table;
+    position: relative;
+    overflow: hidden;
+    text-align:center;
+    margin:0 auto;
+    margin-top: 3%;
+    background-color:#32383E;
+    font-family: Helvetica;
+}
+
+p{
+    font-size: 30px;
+    color:#F78501;
+}
+
+span{
+    font-size: 30px;
+    font-weight: bold;
+    color:#F78501;
+}
